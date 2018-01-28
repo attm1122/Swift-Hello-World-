@@ -12,6 +12,7 @@
 		99C91F9B201D583E00566F22 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99C91F99201D583E00566F22 /* Main.storyboard */; };
 		99C91F9D201D583E00566F22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99C91F9C201D583E00566F22 /* Assets.xcassets */; };
 		99C91FA0201D583E00566F22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99C91F9E201D583E00566F22 /* LaunchScreen.storyboard */; };
+		99C91FA8201D724000566F22 /* SupermanRoss.png in Resources */ = {isa = PBXBuildFile; fileRef = 99C91FA7201D724000566F22 /* SupermanRoss.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		99C91F9C201D583E00566F22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99C91F9F201D583E00566F22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		99C91FA1201D583E00566F22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99C91FA7201D724000566F22 /* SupermanRoss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SupermanRoss.png; path = ../../SupermanRoss.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				99C91F95201D583E00566F22 /* AppDelegate.swift */,
 				99C91F97201D583E00566F22 /* ViewController.swift */,
 				99C91F99201D583E00566F22 /* Main.storyboard */,
+				99C91FA7201D724000566F22 /* SupermanRoss.png */,
 				99C91F9C201D583E00566F22 /* Assets.xcassets */,
 				99C91F9E201D583E00566F22 /* LaunchScreen.storyboard */,
 				99C91FA1201D583E00566F22 /* Info.plist */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				99C91FA0201D583E00566F22 /* LaunchScreen.storyboard in Resources */,
+				99C91FA8201D724000566F22 /* SupermanRoss.png in Resources */,
 				99C91F9D201D583E00566F22 /* Assets.xcassets in Resources */,
 				99C91F9B201D583E00566F22 /* Main.storyboard in Resources */,
 			);
